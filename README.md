@@ -13,4 +13,4 @@ Running Python
 To run this project, follow the following instructions:
 1) Open a terminal on Mac/Linux or Command Line on Windows
 2) Go to the project folder i.e. cd ~/Assignment1
-3) Execute python3 src/main/intro_to_python.py
+3) Execute python3 src/main/assignment_1.py
